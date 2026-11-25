@@ -1,0 +1,14 @@
+{
+  "name": "Mailfan",
+  "url": "https://indiegoodies.com/mailfan",
+  "description": "A fast, private mail app for Mac: every account in one inbox, keyboard triage, on-device AI and an MCP server for agents",
+  "category": "productivity",
+  "platforms": ["mac"],
+  "deal": "50% off lifetime with code INDIEGOODIESBF26",
+  "code": "INDIEGOODIESBF26",
+  "pricing": "lifetime",
+  "discount": 50,
+  "startDate": "2026-11-20",
+  "endDate": "2026-11-30",
+  "icon": "https://indiegoodies.com/icons/mailfan.png"
+}
